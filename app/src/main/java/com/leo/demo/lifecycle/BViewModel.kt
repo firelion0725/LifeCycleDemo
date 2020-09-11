@@ -1,4 +1,4 @@
-package com.leo.demo
+package com.leo.demo.lifecycle
 
 import com.leo.demo.base.BaseViewModel
 

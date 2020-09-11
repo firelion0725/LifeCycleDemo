@@ -1,8 +1,9 @@
-package com.leo.demo
+package com.leo.demo.lifecycle
 
 import android.os.Bundle
 import android.util.Log
 import androidx.appcompat.app.AppCompatActivity
+import com.leo.demo.R
 
 class BActivity : AppCompatActivity() {
 
